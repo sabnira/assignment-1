@@ -39,7 +39,7 @@ body{
 .banner-container{
     max-width: 1280px;
     min-height: 520px;
-    background-image: url('../assets/herobg.png');
+    background-image: url('../hero.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
